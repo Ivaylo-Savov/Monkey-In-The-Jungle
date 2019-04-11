@@ -181,6 +181,10 @@ footer {
         padding: 0 0.5rem;
     }
 
+    header .logo {
+       padding: 2rem 0 2rem 0;
+    }
+
     .gallery .wrapper,
     .story .content {
         padding: 1rem;
