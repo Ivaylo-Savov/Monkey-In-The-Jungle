@@ -200,20 +200,17 @@ footer {
         padding: 1rem;
     }
 
-
     .wrapper .spotlight {
         display: block;
     }
 
     .wrapper .spotlight img {
         width: 100%;
-        
     }
 
     .wrapper .alt h3,
     .wrapper .alt p,
-    .wrapper p, h3
-    {
+    .wrapper p, h3 {
         text-align: center;
     }
  
